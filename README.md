@@ -8,7 +8,7 @@ Over the last 5 years, Social Buzz has grown enormously, reaching over 500 milli
 
 Social Buzz has reached out to Accenture as they plan to IPO within a year, and they need expertise in analyzing the massive unstructured data they produce daily from users.
 
-As an Analyst at Accenture, we're tasked with cleaning and analyzing data from 3 datasets - Content, Reactions, and ReactionTypes and highlighting the top 5 categories with the largest aggregate popularity
+As an Analyst at Accenture, we're tasked with cleaning and analyzing data from 3 datasets - Content, Reactions, and ReactionTypes and highlighting the top 5 categories with the largest aggregate popularity.
 <br />
 
 <h2>Key Metrics</h2>
@@ -21,8 +21,7 @@ As an Analyst at Accenture, we're tasked with cleaning and analyzing data from 3
 
 <h2>Summary of Insights</h2>
 <figure>
-  <img src="Files/charts_accenture.jpg" alt="Pie and Bar chart from data analysis" /> 
-  <figcaption> Top 5 categories by aggregate score and percentage share textalign="center"</figcaption>
+  <img src="Files/charts_accenture.png" alt="Pie and Bar chart from data analysis" /> 
 </figure>
 
 <br>
