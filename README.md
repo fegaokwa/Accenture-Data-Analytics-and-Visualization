@@ -1,5 +1,5 @@
-<h1>Accenture Data Analytics & Visualization Virtual Internship</h1>
-
+<img src="\Files\accenture.svg" width=400 alt="Accenture logo"/>
+<h1>Data Analytics & Visualization Virtual Internship</h1>
 <h2>Introduction</h2>
 <br>
 <b>Social Buzz</b> is a social media company in San Francisco where content takes center stage. Unlike other companies that use traditional likes/dislikes to measure engagement, Social Buzz gives users over 100 ways to react to content. 
@@ -35,3 +35,5 @@ Food is a common theme in the top 5 categories with "Healthy Eating" ranking the
 This one-off analysis is insightful, but more time is needed to understand better the data and predict trends.
 
 The marketing team should create more campaigns for content in the top 5 categories. This will increase user interactions.
+
+<img src="\Files\Accenture Certificate.png" alt="JPMorgan logo"/> 
